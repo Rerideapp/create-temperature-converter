@@ -1,0 +1,15 @@
+{
+  "name": "create-temperature-converter",
+  "version": "1.0.0",
+  "description": "Create a temperature converter. Convert between Celsius, Fahrenheit, and Kelvin. Show the converted values when user enters a temperature.",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "keywords": [
+    "cpos",
+    "generated"
+  ],
+  "author": "CPOS",
+  "license": "MIT"
+}
